@@ -1,0 +1,268 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "brothers-to-brothers.html",
+			"settings":
+			{
+				"buffer_size": 5601,
+				"line_ending": "Windows",
+				"name": "<content>"
+			}
+		},
+		{
+			"file": "services.html",
+			"settings":
+			{
+				"buffer_size": 6068,
+				"line_ending": "Windows",
+				"name": "<content>"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Users/dlbooker/Desktop/Exercise Files/wisdompets/index.html",
+		"/C/Users/dlbooker/Desktop/Exercise Files/wisdompets/sass/app.scss",
+		"/C/Users/dlbooker/Desktop/Exercise Files/wisdompets/sass/_settings.scss",
+		"/C/Users/dlbooker/Desktop/Exercise Files/wisdompets/about.html",
+		"/C/Users/dlbooker/Desktop/Exercise Files/wisdompets/dogs.html",
+		"/C/Users/dlbooker/Desktop/Exercise Files/wisdompets/services.html",
+		"/C/Users/dlbooker/Desktop/Exercise Files/wisdompets/sass/_custom.scss",
+		"/C/Users/dlbooker/Desktop/Exercise Files/wisdompets/config.rb",
+		"/C/Users/dlbooker/Desktop/Exercise Files/wisdompets/sass/_foundation.scss",
+		"/C/Users/dlbooker/Desktop/Exercise Files/wisdompets/sass/_normalize.scss",
+		"/C/Users/dlbooker/Desktop/Footage for the EWC Workshop PAge to ADD the phote",
+		"/C/Users/dlbooker/Creative Cloud Files/NSU SSC Art/SSC-web-2014/top slider test.html",
+		"/C/Users/dlbooker/Desktop/CODE SNIPPET FOR COPY AND REPLACE ON SITE",
+		"/C/Users/dlbooker/Documents/content",
+		"/C/Users/dlbooker/Desktop/fundamentals_of_programing_essentials/Exercise Files/ch08/Array iteration/script.js",
+		"/C/Users/dlbooker/Desktop/script.js",
+		"/C/Users/dlbooker/Desktop/penny-doubled.html",
+		"/C/Users/dlbooker/Desktop/fundamentals_of_programing_essentials/Exercise Files/ch06/While loop/iteration.js",
+		"/C/Users/dlbooker/Desktop/fundamentals_of_programing_essentials/Exercise Files/ch06/While loop/iteration-test.html",
+		"/C/Users/dlbooker/Desktop/fundamentals_of_programing_essentials/Exercise Files/ch06/While loop/script.js",
+		"/C/Users/dlbooker/Desktop/fundamentals_of_programing_essentials/Exercise Files/ch06/While loop/iteration-loop-example.js",
+		"/C/Users/dlbooker/Desktop/fundamentals_of_programing_essentials/Exercise Files/ch05/Parameters/script.js",
+		"/C/Users/dlbooker/Desktop/fundamentals_of_programing_essentials/Exercise Files/ch05/CreatingFunctions/script.js",
+		"/C/Users/dlbooker/Desktop/fundamentals_of_programing_essentials/Exercise Files/ch04/Complex Conditions/script.js",
+		"/C/Users/dlbooker/Desktop/fundamentals_of_programing_essentials/Exercise Files/ch04/if statement/script.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"panel",
+			"nav",
+			"tabs-navigation",
+			"navigation",
+			"tabs",
+			"tabs-navagation",
+			"$tabs-navagation",
+			"tab-navigation"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "brothers-to-brothers.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5601,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								5601
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<content>",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 750.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "services.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6068,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1097,
+								1097
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<content>",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "brothers-to-brothers.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 186.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
